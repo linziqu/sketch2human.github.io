@@ -1,6 +1,6 @@
 # Sketch2Human: Deep Human Generation with Disentangled Geometry and Appearance Constraints
 
-This is the repository that contains source code for the [sketch2human website](https://sketch2human.github.io).
+This is the repository that contains source code for the [sketch2human website](https://linziqu.github.io/sketch2human.github.io/).
 
 If you find Sketch2Human useful for your work please cite:
 ```
